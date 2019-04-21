@@ -2,8 +2,8 @@
 
 Quick issue reports manager
 
-**Important: Issues with `s: untriaged` label may be NSFW even if they do not
-have `nsfw` label**
+**Important: Issues with the `s: untriaged` label may be NSFW even if they do
+not have the `nsfw` label**
 
 ## Other Information
 
