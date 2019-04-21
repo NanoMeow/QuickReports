@@ -15,4 +15,4 @@ Images that may not be safe for work must be collapsed with `<details>`.
 
 ## For Developers
 
-The label `s: untriaged` must match the one hard coded inside NanoMeow.
+Must also update NanoMeow when renaming the `s: untriaged` label.
