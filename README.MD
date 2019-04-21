@@ -12,3 +12,7 @@ for users, please submit issues to
 [Nano Filters issues tracker](https://github.com/NanoAdblocker/NanoFilters/issues).
 
 Images that may not be safe for work must be collapsed with `<details>`.
+
+## For Developers
+
+The label `s: untriaged` must match the one hard coded inside NanoMeow.
