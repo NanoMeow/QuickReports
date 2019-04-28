@@ -2,16 +2,19 @@
 
 Quick issue reports manager
 
-**Important: Issues with the `s: untriaged` label may be NSFW even if they do
-not have the `nsfw` label**
+## NSFW Content
+
+Issues that contain links to NSFW content should be labeled with `nsfw`,
+however, it is not guaranteed to be accurate, especially for issues with the
+`s: untriaged` label, let us know if it is wrong.
+
+**Images that may not be safe for work must be collapsed with `<details>`.**
 
 ## Other Information
 
 This repository is intended to be used by bots and filter maintainers only,
 for users, please submit issues to
 [Nano Filters issues tracker](https://github.com/NanoAdblocker/NanoFilters/issues).
-
-Images that may not be safe for work must be collapsed with `<details>`.
 
 ## For Developers
 
