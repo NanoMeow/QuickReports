@@ -13,7 +13,7 @@ label. Let us know if the `nsfw` label is missing.
 ## Other Information
 
 This repository is intended to be used by bots and filter maintainers only,
-for users, please submit issues to
+for users, submit issues to
 [Nano Filters issues tracker](https://github.com/NanoAdblocker/NanoFilters/issues).
 
 ## For Developers
