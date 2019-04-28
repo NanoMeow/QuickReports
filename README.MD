@@ -18,4 +18,4 @@ for users, submit issues to
 
 ## For Developers
 
-Must also update NanoMeow when renaming the `s: untriaged` label.
+Must also update bot software when renaming the `s: untriaged` label.
