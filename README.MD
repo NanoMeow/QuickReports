@@ -4,9 +4,9 @@ Quick issue reports manager
 
 ## NSFW Content
 
-Issues that contain links to NSFW content should be labeled with `nsfw`,
-however, it is not guaranteed to be accurate, especially for issues with the
-`s: untriaged` label, let us know if it is wrong.
+Issues that contain links to NSFW content should be labeled with `nsfw`.
+However, it is not guaranteed to be accurate, especially for issues with the
+`s: untriaged` label. Let us know if the label is wrong.
 
 **Images that may not be safe for work must be collapsed with `<details>`.**
 
