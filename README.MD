@@ -2,6 +2,15 @@
 
 Quick issue reports manager
 
+## Label Groups
+
+```
+f: Finalized
+m: Maintainer
+s: Status
+t: Type
+```
+
 ## NSFW Content
 
 Issues that contain links to NSFW content are labeled with `nsfw`. However, it
