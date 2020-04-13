@@ -25,6 +25,11 @@ This repository is intended to be used by bots and filter maintainers only,
 for users, submit issues to
 [Nano Filters issues tracker](https://github.com/NanoAdblocker/NanoFilters/issues).
 
+## Label Changes
+
+Ads placeholders were split into its own type on April 13, 2020. Issues that
+were closed before may be classified as `t: ads` instead.
+
 ## For Developers
 
 Must also update bot software when renaming the `s: untriaged` label.
