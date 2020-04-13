@@ -28,7 +28,7 @@ for users, submit issues to
 ## Label Changes
 
 Ads placeholders were split into its own type on April 13, 2020. Issues that
-were closed before that date may be classified as `t: ads` instead.
+were closed before this date may be classified as `t: ads` instead.
 
 ## For Developers
 
